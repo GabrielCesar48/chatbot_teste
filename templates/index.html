@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Consulta ao Produto com IA</title>
+</head>
+<body>
+    <h1>Faça sua pergunta sobre o produto</h1>
+    <form id="question-form" method="post">
+        {% csrf_token %}
+        <label for="question">Pergunta:</label>
+        <input type="text" id="question" name="question" required>
+        <button type="submit">Perguntar</button>
+    </form>
+
+    <h2>Resposta:</h2>
+    <p id="answer"></p>
+
+    <script>
+        document.getElementById('question-form').addEventListener('submit', function(event) {
+            event.preventDefault();
+            
+            const question = document.getElementById('question').value;
+            const csrfToken = document.querySelector('[name="csrfmiddlewaretoken"]').value;
+
+            fetch('/ask-question/', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                    'X-CSRFToken': csrfToken
+                },
+                body: `question=${encodeURIComponent(question)}`
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('answer').innerText = data.answer;
+            })
+            .catch(error => {
+                console.error('Erro:', error);
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,63 @@
+{
+    "nome_do_produto": "Suvinil Toque Fosco Completo",
+    "indicação_de_uso": "Indicado para pintura de superfícies externas e internas de reboco, massa acrílica, texturas, concreto, fibrocimento e internas de massa corrida e gesso devidamente preparadas.",
+    "cores": "São mais de 1.700 cores",
+    "principais_atributos": [
+      "Acabamento fosco impecável, super liso e uniforme",
+      "Pintura lisa e uniforme",
+      "Resistência à limpeza",
+      "Disfarça as imperfeições"
+    ],
+    "referências_normativas": "Este produto está classificado conforme norma NBR 11702:2021 da ABNT (Associação Brasileira de Normas Técnicas).",
+    "classificação": {
+      "tipo": "4.5.3",
+      "desempenho": null,
+      "função": "Pintar superfícies de alvenaria em geral em áreas internas e/ou externas, proporcionando o acabamento indicado pelo fabricante."
+    },
+    "especificações_técnicas": {
+      "poder_de_cobertura_seca": "≥ 6 m²/L",
+      "rendimento_acabado": "Vide quadro de Rendimento acabado",
+      "poder_de_cobertura_de_tinta_úmida": "≥ 90,0%",
+      "resistência_à_abrasão_úmida": "≥ 100 ciclos",
+      "resistência_ao_crescimento_de_fungos": "Resiste",
+      "teor_de_compostos_orgânicos_voláteis": "3- 20 g/L",
+      "brilho": "≤ 8 UB"
+    },
+    "informações_técnicas": {
+      "composição": "Água, resina à base de dispersão aquosa de copolímero estireno acrílico, aditivos, pigmentos isentos de metais pesados, cargas minerais inertes, glicóis, espessantes e tensoativos, diuron (algicida), 2-octil-2H-isotiazole-3-ona (fungicida), mistura de: 5-cloro-2-metil-2H-isotiazole-3-ona 2-metil-2H-isotiazole-3-ona (bactericida/3:1).",
+      "embalagens_cores_prontas": "0,9 L | 3,6 L | 18 L | 20 L",
+      "embalagens_sistema_selfcolor": "0,8 L | 3,2 L | 16 L",
+      "sólidos_massa": "40 a 54%",
+      "sólidos_volume": "26 a 35%",
+      "densidade": "1,1 - 1,6 g/cm³",
+      "ph": "8,5-11,5",
+      "prazo_de_validade": "36 meses"
+    },
+    "preparação_da_parede": {
+      "parede_nova": "Após secar e curar por no mínimo 28 dias, passe a mão sobre a parede. Se ainda restarem grãos ou pó, aplique uma demão de Suvinil Fundo Preparador. Se não sair grãos ou pó, aplique uma demão de Suvinil Selador Acrílico.",
+      "parede_pintada_com_bolhas": "Elimine todas essas imperfeições com raspagem, lixamento, escovação ou hidrojato e aplique uma demão de Suvinil Fundo Preparador.",
+      "parede_mofada": "Lave com uma mistura de água e água sanitária (1:1), deixe agir por uma hora, enxague e deixe secar.",
+      "parede_com_imperfeições_leves": "Em ambientes que recebam umidade, nivele com Suvinil Massa Acrílica. Em ambientes secos, use Suvinil Massa Corrida.",
+      "parede_com_muitas_imperfeições": "Corrija com argamassa e aguarde curar por no mínimo 28 dias.",
+      "gesso": "Deixe secar por 30 dias. Aplique uma demão de Suvinil Gesso & Drywall para garantir a aderência da tinta.",
+      "telhas_de_fibrocimento_e_paredes_pintadas_com_cal": "Aplique uma demão de Suvinil Fundo Preparador."
+    },
+    "observações": {
+      "condições_climáticas": "Evite pintar em dias chuvosos, com vento forte, temperaturas abaixo de 10°C ou umidade acima de 90%.",
+      "limpeza": "Deixe a pintura secar por 2 semanas antes de limpar. Use um pano ou esponja macia com detergente neutro e limpe com pano úmido.",
+      "descarte_de_embalagem": "Descarte a embalagem em pontos de coleta e reciclagem.",
+      "variação_de_cor": "A cor da tinta pode variar ligeiramente em relação à etiqueta/catálogo devido a diferenças nos processos de impressão e produção.",
+      "norma_abnt_nbr_13245": "A superfície deve estar firme, coesa, limpa, seca, sem poeira, gordura, graxa, sabão ou mofo. Partes soltas devem ser removidas."
+    },
+    "precauções": {
+      "contato_com_a_pele": "Lave com sabonete e água. Em caso de irritação, consulte um médico.",
+      "pulverização": "Evite respirar as partículas e use equipamentos de proteção.",
+      "armazenamento": "Mantenha a embalagem fechada, fora do alcance de crianças e animais. Armazene em local coberto, fresco e ventilado."
+    },
+    "outras_informações": {
+      "fispq": "Disponível em www.suvinil.com.br",
+      "emergências_médicas": "0800-0148-110",
+      "emergências_em_acidentes_de_transporte": "0800-0192-274",
+      "sac": "0800 011 7558"
+    }
+  }
